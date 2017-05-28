@@ -14,11 +14,7 @@ public class Professor implements Serializable{
 	}
 	
 	public Professor(int id, String nom, String cognom1, String cognom2) {
-		super();
-		this.id = id;
-		this.nom = nom;
-		this.cognom1 = cognom1;
-		this.cognom2 = cognom2;
+		
 	}
 	
 	public int getId() {
