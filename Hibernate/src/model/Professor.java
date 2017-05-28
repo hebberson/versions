@@ -10,7 +10,9 @@ public class Professor implements Serializable{
 	private String cognom2;
 	
 	public Professor(){
-		
+		vate String nom;
+	private String cognom1;
+	private Strin
 	}
 	
 	public Professor(int id, String nom, String cognom1, String cognom2) {
